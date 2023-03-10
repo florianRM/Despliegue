@@ -45,8 +45,8 @@
       - Se encuentra el pdf explicando como desplegar un .war con Tomcat web.
 
   4. Subida crud a Tomcat
-    1. Están las siguientes actividades:
-    - Se encuentra el pdf explicando como desplegar una aplicación Spring Boot con Tomcat web.
+      1. Están las siguientes actividades:
+      - Se encuentra el pdf explicando como desplegar una aplicación Spring Boot con Tomcat web.
 
   5. Jenkins
       1. Están las siguientes actividades:
