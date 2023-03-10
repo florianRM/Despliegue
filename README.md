@@ -31,23 +31,23 @@
       - Se encuentra el fichero de configuración yml de joomla y el pdf con la explicación del fichero y las capturas del funcionamiento
       
 ## Núevas actividades incluidas
-  9. Java
+  1. Java
       1. Están las siguientes actividades:
       - Se encuentra el pdf explicando las distintas ediciones de java y cuando se usan.
 
-  10. Wildfly
+  2. Wildfly
       1. Están las siguientes actividades:
       - Se encuentra el fichero de configuración docker-compose.yml de Wildfly
       - Se encuentra el pdf explicando como desplegar Wildfly.
     
-  11. Subida war a Tomcat
+  3. Subida war a Tomcat
       1. Están las siguientes actividades:
       - Se encuentra el pdf explicando como desplegar un .war con Tomcat web.
 
-  12. Subida crud a Tomcat
+  4. Subida crud a Tomcat
     1. Están las siguientes actividades:
     - Se encuentra el pdf explicando como desplegar una aplicación Spring Boot con Tomcat web.
 
-  13. Jenkins
+  5. Jenkins
       1. Están las siguientes actividades:
       - Se encuentra el pdf explicando como crear una tarea en Jenkins.
